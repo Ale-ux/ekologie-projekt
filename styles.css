@@ -13,8 +13,6 @@
     font-family: Arial;
 }
 
-
-
 .wrapper {
     display: flex;  
     flex-flow: row wrap;
@@ -22,81 +20,81 @@
     text-align: center;
   }
   
-  .wrapper > * {
+.wrapper > * {
     padding: 10px;
     flex: 1 100%;
   }
   
-  .header {
+.header {
     background-image: url("bacc.jpg");
     height: 300px;
     width: 50%;
    
   }
   
-  .footer {
+.footer {
     background: lightgreen;
   }
   
-  .main {
+.main {
     text-align: left;
     background: rgb(151, 243, 159);
     display: contents;
   }
   
-  .aside-1 {
+.aside-1 {
     background-color: rgba(112, 230, 121, 0.952);
     display: block;
     font-size: 20px;
   }
 
-  .aside-2 {
+.aside-2 {
     background-color: rgba(112, 230, 121, 0.952);
     display: block;
     font-size: 20px;
   }
   
-  .aside-3 {
+.aside-3 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
     font-size: 20px;
   }
 
-  .aside-4 {
+.aside-4 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
     font-size: 20px;
   }
 
-  .aside-5 {
+.aside-5 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
     font-size: 20px;
   }
 
-  .aside-6 {
+.aside-6 {
     background-color: rgba(112, 230, 121, 0.952);
     display:block;
     font-size: 20px;
   }
 
-  .aside-7 {
+.aside-7 {
     background-color: rgba(112, 230, 121, 0.952);
     display:block;
     font-size: 20px;
   }
 
-  .aside-8 {
+.aside-8 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
     font-size: 20px;
   }
   
-  @media all and (min-width: 600px) {
+@media all and (min-width: 600px) {
     .aside { flex: 1 0 0; }
   }
   
-  @media all and (min-width: 800px) {
+@media all and (min-width: 800px) {
     .main    { flex: 3 0px; }
     .aside-1 { order: 1; } 
     .main    { order: 2; }
@@ -104,16 +102,16 @@
     .footer  { order: 4; }
   }
   
-  body {
+body {
     padding: 2em; 
   }
 
-  .dropdown {
+.dropdown {
     position: relative;
     display: inline-block;
   }
   
-  .dropdown-content {
+.dropdown-content {
     display: none;
     position: absolute;
     background-color: #ecf8ec;
@@ -122,11 +120,11 @@
     z-index: 1;
   }
   
-  .dropdown:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
   }
   
-  .desc {
+.desc {
     padding: 15px;
     text-align: center;
   }
