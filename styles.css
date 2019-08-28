@@ -128,5 +128,8 @@ body {
     padding: 15px;
     text-align: center;
   }
-  
+
+  *{
+    font-family: 'trebuchet ms';
+  }
   
