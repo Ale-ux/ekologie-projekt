@@ -43,6 +43,11 @@
     background: rgb(151, 243, 159);
     display: contents;
   }
+
+  .aside {
+  background: rgba(112, 230, 121, 0.952);
+    display: block;
+   }
   
   .aside-1 {
     background: rgba(112, 230, 121, 0.952);
