@@ -43,50 +43,53 @@
     background: rgb(151, 243, 159);
     display: contents;
   }
-
-  .aside {
-  background: rgba(112, 230, 121, 0.952);
-    display: block;
-   }
   
   .aside-1 {
     background-color: rgba(112, 230, 121, 0.952);
     display: block;
+    font-size: 20px;
   }
 
-  .aside-2{
+  .aside-2 {
     background-color: rgba(112, 230, 121, 0.952);
     display: block;
+    font-size: 20px;
   }
   
-  .aside-3{
+  .aside-3 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
+    font-size: 20px;
   }
 
-  .aside-4{
+  .aside-4 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
+    font-size: 20px;
   }
 
-  .aside-5{
+  .aside-5 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
+    font-size: 20px;
   }
 
-  .aside-6{
+  .aside-6 {
     background-color: rgba(112, 230, 121, 0.952);
     display:block;
+    font-size: 20px;
   }
 
-  .aside-7{
+  .aside-7 {
     background-color: rgba(112, 230, 121, 0.952);
     display:block;
+    font-size: 20px;
   }
 
-  .aside-8{
+  .aside-8 {
     background-color:rgba(112, 230, 121, 0.952);
     display: block;
+    font-size: 20px;
   }
   
   @media all and (min-width: 600px) {
