@@ -43,11 +43,38 @@
   }
   
   .aside-1 {
-    background: gold;
+    background: rgba(112, 230, 121, 0.952)
+  }
+
+  .aside-2{
+    background: rgba(112, 230, 121, 0.952)
   }
   
-  .aside-2 {
-    background: hotpink;
+  .aside-3{
+    background:rgba(112, 230, 121, 0.952)
+  }
+
+  .aside-4{
+    background:rgba(112, 230, 121, 0.952)
+  }
+
+  .aside-4{
+    background:rgba(112, 230, 121, 0.952);
+  }
+
+  .aside-5{
+    background: rgba(112, 230, 121, 0.952)
+  }
+
+  .aside-6{
+    background: rgba(112, 230, 121, 0.952)
+  }
+
+  .aside-7{
+    background:rgba(112, 230, 121, 0.952) 
+  }
+  .aside-8 {
+    background: rgba(112, 230, 121, 0.952);
   }
   
   @media all and (min-width: 600px) {
