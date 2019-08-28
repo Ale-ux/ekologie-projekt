@@ -43,34 +43,38 @@
   }
   
   .aside-1 {
-    background: gold;
+    background: rgba(112, 230, 121, 0.952)
   }
 
   .aside-2{
-    background: green
+    background: rgba(112, 230, 121, 0.952)
   }
   
   .aside-3{
-    background:green
+    background:rgba(112, 230, 121, 0.952)
   }
 
   .aside-4{
-    background:green
+    background:rgba(112, 230, 121, 0.952)
   }
 
   .aside-4{
-    background:green
+    background:rgba(112, 230, 121, 0.952))
   }
 
   .aside-5{
-    background: green
+    background: rgba(112, 230, 121, 0.952)
   }
 
   .aside-6{
-    background: green
+    background: rgba(112, 230, 121, 0.952)
+  }
+
+  .aside-7{
+    background:rgba(112, 230, 121, 0.952) 
   }
   .aside-8 {
-    background: hotpink;
+    background: rgba(112, 230, 121, 0.952);
   }
   
   @media all and (min-width: 600px) {
