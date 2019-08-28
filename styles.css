@@ -28,7 +28,9 @@
   }
   
   .header {
-    background: tomato;
+    background-image: url("planet.jpg");
+    height: 200px;
+    width: 50%;
   }
   
   .footer {
