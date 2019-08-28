@@ -40,7 +40,7 @@
   .main {
     text-align: left;
     background: rgb(151, 243, 159);
-    display: contents
+    display: contents;
   }
   
   .aside-1 {
@@ -70,21 +70,21 @@
 
   .aside-5{
     background: rgba(112, 230, 121, 0.952);
-    display:block
+    display:block;
   }
 
   .aside-6{
     background: rgba(112, 230, 121, 0.952);
-    display:block
+    display:block;
   }
 
   .aside-7{
     background:rgba(112, 230, 121, 0.952);
-    display: block
+    display: block;
   }
   .aside-8 {
     background: rgba(112, 230, 121, 0.952);
-    display:block
+    display:block;
   }
   
   @media all and (min-width: 600px) {
