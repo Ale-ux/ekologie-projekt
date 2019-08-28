@@ -64,14 +64,9 @@
     display: block;
   }
 
-  .aside-4{
+  .aside-5{
     background:rgba(112, 230, 121, 0.952);
     display: block;
-  }
-
-  .aside-5{
-    background: rgba(112, 230, 121, 0.952);
-    display:block;
   }
 
   .aside-6{
@@ -80,12 +75,13 @@
   }
 
   .aside-7{
-    background:rgba(112, 230, 121, 0.952);
-    display: block;
-  }
-  .aside-8 {
     background: rgba(112, 230, 121, 0.952);
     display:block;
+  }
+
+  .aside-8{
+    background:rgba(112, 230, 121, 0.952);
+    display: block;
   }
   
   @media all and (min-width: 600px) {
