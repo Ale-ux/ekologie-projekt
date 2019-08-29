@@ -19,7 +19,8 @@ body{
     font-size: 5em;
     font-family: Arial;
     color: rgb(35, 211, 158);
-}
+    border-radius: 20px;
+  }
 
 .wrapper {
     display: flex;  
@@ -37,7 +38,8 @@ body{
     background-image: url("plants-nature-green-leaves-wallpaper.jpg");
     height: 200px;
     width: 50%;
-    border-radius: 8px;
+    border-radius: 20px;
+}
 .footer {
     background: lightgreen;
   }
