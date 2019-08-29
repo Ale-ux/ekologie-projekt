@@ -37,8 +37,7 @@ body{
     background-image: url("plants-nature-green-leaves-wallpaper.jpg");
     height: 200px;
     width: 50%;
-  }
-  
+    border-radius: 8px;
 .footer {
     background: lightgreen;
   }
@@ -183,3 +182,4 @@ p {
     display: table;
     clear: both;
   }
+  
