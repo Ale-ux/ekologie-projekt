@@ -3,7 +3,11 @@
     padding:8px;
     text-align: center;
 }
-
+body{
+  background-image: url("49b5848e97c098b30d846675ac331ec5.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 .header{
     text-align: center;
     padding: 100px;
