@@ -61,42 +61,49 @@ body{
     background-color: rgba(179, 255, 185, 0.952);
     display: block;
     font-size: 20px;
+    border-radius: 25px;
   }
   
 .aside-3 {
     background-color:rgba(179, 255, 185, 0.952);                      
     display: block;
     font-size: 20px;
+    border-radius: 25px;
   }
 
 .aside-4 {
     background-color:rgba(179, 255, 185, 0.952);                    
     display: block;
     font-size: 20px;
+    border-radius: 25px;
   }
 
 .aside-5 {
     background-color:rgba(179, 255, 185, 0.952);
     display: block;
     font-size: 20px;
+    border-radius: 25px;
   }
 
 .aside-6 {
     background-color:rgba(179, 255, 185, 0.952);
     display:block;
     font-size: 20px;
+    border-radius: 25px;
   }
 
 .aside-7 {
     background-color: rgba(179, 255, 185, 0.952);
     display:block;
     font-size: 20px;
+    border-radius: 25px;
   }
 
 .aside-8 {
     background-color:rgba(179, 255, 185, 0.952);
     display: block;
     font-size: 20px;
+    border-radius: 25px;
   }
   
 @media all and (min-width: 600px) {
