@@ -1,6 +1,7 @@
 *{
     margin:8px;
     padding:8px;
+    text-align: center;
 }
 body{
   background-image: url("s1.jpg");
@@ -41,7 +42,7 @@ body{
   }
   
 .main {
-    text-align: left;
+    text-align: center;
     background: rgb(151, 243, 159);
     display: contents;
   }
@@ -133,7 +134,11 @@ body {
     text-align: center;
   }
 
-  *{
+  * {
     font-family: 'trebuchet ms';
+  }
+
+p {
+    font-family:'times new roman';
   }
   
