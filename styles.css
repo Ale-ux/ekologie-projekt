@@ -3,8 +3,8 @@
     padding:8px;
 }
 body{
-  background-image: url("49b5848e97c098b30d846675ac331ec5.jpg");
-  background-size: contain;
+  background-image: url("s1.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
 }
 .header{
@@ -31,7 +31,7 @@ body{
   }
   
 .header {
-    background-image: url("bacc.jpg");
+    background-image: url("0zy6bd8il8l21.png");
     height: 100px;
     width: 50%;
   }
