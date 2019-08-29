@@ -2,6 +2,7 @@
     margin:8px;
     padding:8px;
     text-align: center;
+    
 }
 body{
   background-image: url("s1.jpg");
@@ -15,10 +16,10 @@ body{
 
  
 .header {
-    text-align: center;
-    font-size: 5em;
+    text-align:center;
+    font-size: 9em;
     font-family: Arial;
-    color: rgb(35, 211, 158);
+    color: rgb(0, 0, 0);
   }
 
 .wrapper {
@@ -34,8 +35,8 @@ body{
   }
   
 .header {
-    background-image: url("plants-nature-green-leaves-wallpaper.jpg");
-    height: 200px;
+    background-image: url("o.jpg");
+    height: 400px;
     width: 50%;
     border-radius: 20px;
 }
